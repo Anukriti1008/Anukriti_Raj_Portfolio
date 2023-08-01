@@ -1,2 +1,15 @@
 # Anukriti_Raj_Portfolio
-Data Science Portfolio
+
+This portfolio is a compilation of Data Preparation and Modeling notebooks that was created by me for the Summer Capstone Project titled "Home Credit Default Risk".
+
+Prediction of the Client’s repayment abilities is a challenging task for HomeCredit as the company wants not to lose any clients who may be capable of on-time loan repayment. The objective of the project is to build a predictive analytics model that will identify if the loan applicant is likely to default or not based on the existing dataset and associated data description to identify the appropriate predictors.
+
+Our group performed EDA on the dataset provided by analyzing the data, cleaning up the Categorical and Numerical data, removing Null values, balancing and aligning the train and test dataset and performing Feature Engineering. After completion of EDA, several classification models like Logistic Regression(with Hyperparameter Tuning), Random Forest Model and Light Gradient Boosting Model were built. After comparing the performance of these models, the group came to the conclusion that the Light Gradient Boosting Model performed best in terms of Accuracy(72%) and runtime(140.1 sec). This model gave the best result in identifying the probability of a Loan applicant being a defaulter or not based on several features considered to be important while analyzing the application.
+
+My contribution to the project was analyzing Target Variable Distribution, identifying and cleaning missing values, identifying and encoding categorical values, finding relationships between various features and the Target, aligning the train and test dataset, finding the top 10 and last 10 correlation of features with the Target during EDA phase. During the Modeling phase, I mostly worked on the analysis and aligning of Train and Test datasets followed by building of Logistic Regression and Random Forest model. Finally, I ran the models individually on the Kaggle platform to calculate their runtime which helped the group to come to a conclusion of identifying the Best Model for the Business Problem identified in the earlier phase. 
+
+Business Value-
+
+As we had to find our own path in terms of Data Preparation and Model Building so there were many challenges faced by the group like identifying the columns whose removal would cause the least or no impact on our analysis, alignment of Train and Test data in the same ratio as was maintained in the historical dataset, replacing Null values with suitable values in Categorical and Numerical columns, identifying other datasets that could be used for Feature Engineering, building up of various models and introducing hyperparameter tuning in them for getting better model.
+
+There were many things to learn while working on this project which broadened my thinking as a Data analyst. Also, figuring out the challenges and overcoming them has given me the confidence to work on any similar kind of issues that will come in my way in the Future. Learning the concepts and implementing them practically in a real-world scenario is completely different and i am glad that I got this as an opportunity to work during my Masters Program.
