@@ -8,7 +8,7 @@
 *[Solution to the business problem](#solution)   
 *[My contribution to the project](#contribution)   
 *[Business Value of our solution](#BusinessValue)   
-*[Objective](#Objective)   
+*[Difficulties that our group encountered](#Difficulties)   
 *[What I learned from this project](#WhatIlearnedfromthisproject)   
    
 <a name="Businessproblem"/></a>
@@ -53,6 +53,7 @@ Our solution adds huge value to the business by:
 3) **Reducing default rates**: By accurately assessing the loan applicants, the bank can reduce the number of loans granted to high-risk customers, ultimately leading to a decrease in default rates. Lower default rates translate to improved loan portfolio quality and reduced financial losses for the bank.
 4) **Increase in profits**: Reducing default rates and identifying low-risk customers will allow the bank to offer better competitive rates to customers with good credit profiles. Attracting low-risk customers will lead to increased loan approval rates, thereby boosting the bank's revenue and profitability.
 
+<a name="Difficulties"/></a>
 ###  Difficulties that our group encountered
 1) **Lack of Domain Expertise and absence of direct interaction with the business**: Understanding the domain-specific context of various independent variables in the dataset was a big challenge to us as we had no one from the business to reach out to get domain expertise. We had to mostly use Google and spend a lot of time establishing the relevance of such variables by using various analytical methods. This was also a blocker during our feature engineering steps.
 2) **Data Preprocessing**: Having a team of people who are not seasoned with Python or analytical methods was another challenge that we had to face. For every kind of data inconsistency, we had to research, go through huge function/library documents and face multiple exceptions before achieving the right code snippet.
