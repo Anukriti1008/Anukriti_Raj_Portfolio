@@ -4,7 +4,7 @@
 
 ### Table of Contents  
 *[Business problem](#Businessproblem)  
-8[Objective](#Objective)   
+*[Objective](#Objective)   
 *[Solution to the business problem](#solution)   
 *[My contribution to the project](#contribution)   
 *[Business Value of our solution](#BusinessValue)   
