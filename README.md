@@ -48,8 +48,8 @@ Our solution adds huge value to the business by:
 ### What I learned from this project
 As a Business Analyst candidate, there was indeed a lot to learn from this project. Enlisting a few of the major ones below:
 
-1) Learn to collaborate with others, share ideas, and work collectively to achieve project goals.
-2) Always have a problem-solving approach that first breaks down the business problem at the best possible granularity level. Critically analyze how your dataset attributes are going to help you out in achieving the best possible solution
-3) Domain Knowledge and Expertise is the most underrated aspect for candidates who are still learning Data Science. Getting deeper insights into the business context is very crucial for creating effective data-driven solutions.
-4) Learnt Project Management skills by working on the capstone project end to end. From setting objectives to creating a plan to managing resources and working in strict timelines the business solution is a complete SDLC deliverable in itself.
-5) Data Understanding: Understanding the data is a fundamental aspect of data science projects. Most of our time is spent in cleaning, preprocessing, and visualizing data to understand various inconsistencies.
+1) **Learn to collaborate with others, share ideas, and work collectively to achieve project goals.**
+2) **Always have a problem-solving approach** that first breaks down the business problem at the best possible granularity level. Critically analyze how your dataset attributes are going to help you out in achieving the best possible solution
+3) **Domain Knowledge and Expertise is the most underrated aspect** for candidates who are still learning Data Science. Getting deeper insights into the business context is very crucial for creating effective data-driven solutions.
+4) **Learnt Project Management skills** by working on the capstone project end to end. From setting objectives to creating a plan to managing resources and working in strict timelines the business solution is a complete SDLC deliverable in itself.
+5) **Data Understanding**: Understanding the data is a fundamental aspect of data science projects. Most of our time is spent in cleaning, preprocessing, and visualizing data to understand various inconsistencies.
