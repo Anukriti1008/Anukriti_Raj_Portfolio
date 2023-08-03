@@ -2,17 +2,24 @@
 
 ## Project 1: MSBA Summer Capstone Project "Home Credit Default Risk".
 
-##### Table of Contents  
+### Table of Contents  
 [Business problem](#Businessproblem)  
+[Objective](#Objective)
+[Solution to the business problem](#solution)
+[My contribution to the project](#contribution)
+[Business Value of our solution](#BusinessValue)
+[Objective](#Objective)
 [What I learned from this project](#WhatIlearnedfromthisproject)  
    
 <a name="Businessproblem"/></a>
 ### Business problem
 Prediction of the Client’s repayment abilities is a challenging task for HomeCredit bank as the company wants not to lose any potential clients who may be capable of on-time loan repayment. The company also wants to empower its clients who may not have sufficient or existent credit history by granting them loans after predicting their repayment abilities, by verifying their alternative data like telco and transactional information, both online and offline.
 
+<a name="Objective"/></a>
 ### Objective
 To build and develop a data-driven, credit risk assessment predictive model which evaluates the creditworthiness of customers applying for loans at the Home Credit bank.
 
+<a name="solution"/></a>
 ### Solution to the business problem
 To provide a solution to the aforementioned business problem of lending to customers effectively, our team used the following approach:
 
@@ -24,6 +31,7 @@ To provide a solution to the aforementioned business problem of lending to custo
 6) **Interpretability and Explainability**: Our group then focussed on interpreting the model-based results in a more explainable way, especially in the context of lending decisions. 
 On comparison of the performance of these models, the group came to the conclusion that the Light Gradient Boosting Model performed best in terms of Accuracy(72%) and runtime(140.1 sec). This model gave the best result in identifying the probability of a Loan applicant being a defaulter or not based on several features that were identified as major factors in determining the repayment capability of an individual.
 
+<a name="contribution"/></a>
 ### My contribution to the project
 Right from the inception of the project, I contributed across all the stages of this data science project including Data preprocessing, visualization, feature engineering, dataset balancing, model training, cross-validations, and conclusion. I also mentored my teammates on topics such as undersampling methodologies, stratification, hyperparameter tuning, and cross-validations. Enlisting a break-up of the topics I exclusively worked on and spent hours on:
 
@@ -36,6 +44,7 @@ Right from the inception of the project, I contributed across all the stages of 
 7) **Training and Hyperparameter Tuning for models** such as Logistic Regression and Random Forest model.
 8) **Running models individually on the Kaggle platform, analyzing the accuracy scores and runtime** which finally led our group to conclude on the Best Model for the Business Problem.
 
+<a name="BusinessValue"/></a>
 ### Business Value of our solution
 Our solution adds huge value to the business by:
 
