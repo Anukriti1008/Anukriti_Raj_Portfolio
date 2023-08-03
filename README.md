@@ -22,22 +22,22 @@ On comparison of the performance of these models, the group came to the conclusi
 ### My contribution to the project
 Right from the inception of the project, I contributed across all the stages of this data science project including Data preprocessing, visualization, feature engineering, dataset balancing, model training, cross-validations, and conclusion. I also mentored my teammates on topics such as undersampling methodologies, stratification, hyperparameter tuning, and cross-validations. Enlisting a break-up of the topics I exclusively worked on and spent hours on:
 
-1) Analyzing Target Variable Distribution
-2) Identifying and cleaning missing values across variables
-3) Identifying and encoding categorical values using Label and One Hot Encoder
-4) Finding correlations between various features and the Target
-5) Handling a huge imbalance in the dataset (target variable perspective)
-6) Aligning the train and test dataset
-7) Training and Hyperparameter Tuning for models such as Logistic Regression and Random Forest model. F
-8) Running models individually on the Kaggle platform, analyzing the accuracy scores and runtime which finally led our group to conclude on the Best Model for the Business Problem.
+1) **Analyzing Target Variable Distribution**
+2) **Identifying and cleaning missing values across variables**
+3) **Identifying and encoding categorical values using Label and One Hot Encoder**
+4) **Finding correlations between various features and the Target**
+5) **Handling a huge imbalance in the dataset** (target variable perspective)
+6) **Aligning the train and test dataset**
+7) **Training and Hyperparameter Tuning for models** such as Logistic Regression and Random Forest model.
+8) **Running models individually on the Kaggle platform, analyzing the accuracy scores and runtime** which finally led our group to conclude on the Best Model for the Business Problem.
 
 ### Business Value of our solution
 Our solution adds huge value to the business by:
 
-1) Providing an improved Loan Approval Process which does data-based customer credit assessment
-2) Streamlining the Loan Approval Process by automating customer evaluations that speed up the decision-making, resulting in faster responses to loan applications, thus enhancing customer satisfaction and loyalty.
-3) Reducing default rates: By accurately assessing the loan applicants, the bank can reduce the number of loans granted to high-risk customers, ultimately leading to a decrease in default rates. Lower default rates translate to improved loan portfolio quality and reduced financial losses for the bank.
-4) Increase in profits: Reducing default rates and identifying low-risk customers will allow the bank to offer better competitive rates to customers with good credit profiles. Attracting low-risk customers will lead to increased loan approval rates, thereby boosting the bank's revenue and profitability.
+1) **Providing an improved Loan Approval Process which does data-based customer credit assessment**
+2) **Streamlining the Loan Approval Process by automating customer evaluations that speed up the decision-making, resulting in faster responses to loan applications, thus enhancing customer satisfaction and loyalty.**
+3) **Reducing default rates**: By accurately assessing the loan applicants, the bank can reduce the number of loans granted to high-risk customers, ultimately leading to a decrease in default rates. Lower default rates translate to improved loan portfolio quality and reduced financial losses for the bank.
+4) **Increase in profits**: Reducing default rates and identifying low-risk customers will allow the bank to offer better competitive rates to customers with good credit profiles. Attracting low-risk customers will lead to increased loan approval rates, thereby boosting the bank's revenue and profitability.
 
 ###  Difficulties that our group encountered
 1) **Lack of Domain Expertise and absence of direct interaction with the business**: Understanding the domain-specific context of various independent variables in the dataset was a big challenge to us as we had no one from the business to reach out to get domain expertise. We had to mostly use Google and spend a lot of time establishing the relevance of such variables by using various analytical methods. This was also a blocker during our feature engineering steps.
