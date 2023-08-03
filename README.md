@@ -2,10 +2,6 @@
 
 ## Project 1: MSBA Summer Capstone Project "Home Credit Default Risk".
 
-*[Business problem](#BusinessProblem)
-*[What I learned from this project](#WhatIlearnedfromthisproject)
-
-<a class="anchor" id="BusinessProblem"></a>
 ### Business problem
 Prediction of the Client’s repayment abilities is a challenging task for HomeCredit bank as the company wants not to lose any potential clients who may be capable of on-time loan repayment. The company also wants to empower its clients who may not have sufficient or existent credit history by granting them loans after predicting their repayment abilities, by verifying their alternative data like telco and transactional information, both online and offline.
 
@@ -15,7 +11,7 @@ To build and develop a data-driven, credit risk assessment predictive model whic
 ### Solution to the business problem
 To provide a solution to the aforementioned business problem of lending to customers effectively, our team used the following approach:
 
-1) **Data Visualization, Cleaning, and Preprocessing**: This included Handling Outliers, missing values, and inconsistencies along with analyzing the distribution of various independent variables in the dataset. 
+1) **Data Visualization, Cleaning, and Preprocessing**: This included handling outliers, missing values, and inconsistencies along with analyzing the distribution of various independent variables in the dataset. 
 2) **Feature Engineering**: This step included extraction and creation of meaningful features from the given dataset to provide valuable inputs to the lending model by transforming variables, creating new derived features, and scaling numerical data.
 3) **Handling Imbalanced Data**: We also had to address the class imbalance issues, as the loan default cases were significantly lower than the non-default cases by employing intelligent undersampling
 4) **Model Selection and Training with Hyperparameter Tuning**: Our team selected multiple models to identify the appropriate machine learning algorithm for credit risk assessment, such as logistic regression, random forests, and light gradient boosting model, and trained them accordingly.
@@ -49,7 +45,6 @@ Our solution adds huge value to the business by:
 3) **Model Selection and Hyperparameter Tuning**: Another challenge that needs to be talked about was selecting the most appropriate machine learning algorithm and tuning its hyperparameters. Because we worked out our solution by training 3 models, we came across situations where different algorithms were performing differently on the same dataset, and finding the best combination of the hyperparameters was iterative and resource-intensive.
 4) **Overfitting and Underfitting**: Balancing our model's complexity to avoid overfitting (fitting too closely to the training data) or underfitting (lack of ability to capture patterns) was crucial and achieving an optimal balance was really difficult. Also, because the given data set was significantly imbalanced, we had to come up with an intelligent strategy to balance the training dataset to avoid overfitting the majority target class. Digging down to this intelligent strategy was indeed one of the biggest challenges we faced.
 
-<a class="anchor" id="WhatIlearnedfromthisproject"></a>
 ### What I learned from this project
 As a Business Analyst candidate, there was indeed a lot to learn from this project. Enlisting a few of the major ones below:
 
