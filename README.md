@@ -7,9 +7,9 @@
 *[Objective](#objective)   
 *[Solution to the business problem](#solution)   
 *[My contribution to the project](#contribution)   
-*[Business Value of our solution](#BusinessValue)   
-*[Difficulties that our group encountered](#Difficulties)   
-*[What I learned from this project](#WhatIlearnedfromthisproject)   
+*[Business Value of our solution](#businessvalue)   
+*[Difficulties that our group encountered](#difficulties)   
+*[What I learned from this project](#learning)   
    
 <a name="Businessproblem"/></a>
 ### Business problem
@@ -44,7 +44,7 @@ Right from the inception of the project, I contributed across all the stages of 
 7) **Training and Hyperparameter Tuning for models** such as Logistic Regression and Random Forest model.
 8) **Running models individually on the Kaggle platform, analyzing the accuracy scores and runtime** which finally led our group to conclude on the Best Model for the Business Problem.
 
-<a name="BusinessValue"/></a>
+<a name="businessvalue"/></a>
 ### Business Value of our solution
 Our solution adds huge value to the business by:
 
@@ -53,14 +53,14 @@ Our solution adds huge value to the business by:
 3) **Reducing default rates**: By accurately assessing the loan applicants, the bank can reduce the number of loans granted to high-risk customers, ultimately leading to a decrease in default rates. Lower default rates translate to improved loan portfolio quality and reduced financial losses for the bank.
 4) **Increase in profits**: Reducing default rates and identifying low-risk customers will allow the bank to offer better competitive rates to customers with good credit profiles. Attracting low-risk customers will lead to increased loan approval rates, thereby boosting the bank's revenue and profitability.
 
-<a name="Difficulties"/></a>
+<a name="difficulties"/></a>
 ###  Difficulties that our group encountered
 1) **Lack of Domain Expertise and absence of direct interaction with the business**: Understanding the domain-specific context of various independent variables in the dataset was a big challenge to us as we had no one from the business to reach out to get domain expertise. We had to mostly use Google and spend a lot of time establishing the relevance of such variables by using various analytical methods. This was also a blocker during our feature engineering steps.
 2) **Data Preprocessing**: Having a team of people who are not seasoned with Python or analytical methods was another challenge that we had to face. For every kind of data inconsistency, we had to research, go through huge function/library documents and face multiple exceptions before achieving the right code snippet.
 3) **Model Selection and Hyperparameter Tuning**: Another challenge that needs to be talked about was selecting the most appropriate machine learning algorithm and tuning its hyperparameters. Because we worked out our solution by training 3 models, we came across situations where different algorithms were performing differently on the same dataset, and finding the best combination of the hyperparameters was iterative and resource-intensive.
 4) **Overfitting and Underfitting**: Balancing our model's complexity to avoid overfitting (fitting too closely to the training data) or underfitting (lack of ability to capture patterns) was crucial and achieving an optimal balance was really difficult. Also, because the given data set was significantly imbalanced, we had to come up with an intelligent strategy to balance the training dataset to avoid overfitting the majority target class. Digging down to this intelligent strategy was indeed one of the biggest challenges we faced.
 
-<a name="WhatIlearnedfromthisproject"/></a>
+<a name="learning"/></a>
 ### What I learned from this project
 As a Business Analyst candidate, there was indeed a lot to learn from this project. Enlisting a few of the major ones below:
 
