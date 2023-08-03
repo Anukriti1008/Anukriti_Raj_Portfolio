@@ -6,7 +6,7 @@
 [Business problem](#Businessproblem)  
 [Emphasis](#emphasis)  
    
-<a name="Businessproblem"/>
+<a name="Businessproblem"/></a>
 ### Business problem
 Prediction of the Client’s repayment abilities is a challenging task for HomeCredit bank as the company wants not to lose any potential clients who may be capable of on-time loan repayment. The company also wants to empower its clients who may not have sufficient or existent credit history by granting them loans after predicting their repayment abilities, by verifying their alternative data like telco and transactional information, both online and offline.
 
