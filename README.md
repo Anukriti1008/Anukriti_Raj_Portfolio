@@ -11,24 +11,39 @@ To build and develop a data-driven, credit risk assessment predictive model whic
 ### Solution to the business problem
 To provide a solution to the aforementioned business problem of lending to customers effectively, our team used the following approach:
 
-1) Data Visualization, Cleaning, and Preprocessing: This included Handling Outliers, missing values, and inconsistencies along with analysing the distribution of various independent variables in the dataset. 
-2) Feature Engineering: This step included extraction and creation of meaningful features from the given dataset to provide valuable inputs to the lending model by transforming variables, creating new derived features, and scaling numerical data.
-   
-3) Handling Imbalanced Data: We also had to address the class imbalance issues, as the loan default cases were significantly lower than the non-default casesby employing intelligent undersampling
-   
-4) Model Selection and Training with Hyperparameter Tuning: Our team selected multiple models to identify the appropriate machine learning algorithm for credit risk assessment, such as logistic regression, random forests, and light gradient boosting model, and trained them accordingly.
-
-5) Cross-Validation and Evaluation: We then employed cross-validation techniques to validate the performance of the aforementioned predictive models on different subsets of data. We then used evaluation metrics like precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC) to assess the model's accuracy and reliability.
-
-5) Interpretability and Explainability: Our group then focussed on interpreting the model-based results in a more explainable way, especially in the context of lending decisions. 
-
+1) **Data Visualization, Cleaning, and Preprocessing**: This included Handling Outliers, missing values, and inconsistencies along with analyzing the distribution of various independent variables in the dataset. 
+2) **Feature Engineering**: This step included extraction and creation of meaningful features from the given dataset to provide valuable inputs to the lending model by transforming variables, creating new derived features, and scaling numerical data.
+3) **Handling Imbalanced Data**: We also had to address the class imbalance issues, as the loan default cases were significantly lower than the non-default cases by employing intelligent undersampling
+4) **Model Selection and Training with Hyperparameter Tuning**: Our team selected multiple models to identify the appropriate machine learning algorithm for credit risk assessment, such as logistic regression, random forests, and light gradient boosting model, and trained them accordingly.
+5) **Cross-Validation and Evaluation**: We then employed cross-validation techniques to validate the performance of the aforementioned predictive models on different subsets of data. We then used evaluation metrics like precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC) to assess the model's accuracy and reliability.
+6) **Interpretability and Explainability**: Our group then focussed on interpreting the model-based results in a more explainable way, especially in the context of lending decisions. 
 On comparison of the performance of these models, the group came to the conclusion that the Light Gradient Boosting Model performed best in terms of Accuracy(72%) and runtime(140.1 sec). This model gave the best result in identifying the probability of a Loan applicant being a defaulter or not based on several features that were identified as major factors in determining the repayment capability of an individual.
 
-My contribution to the project was analyzing Target Variable Distribution, identifying and cleaning missing values, identifying and encoding categorical values, finding relationships between various features and the Target, aligning the train and test dataset, finding the top 10 and last 10 correlation of features with the Target during EDA phase. During the Modeling phase, I mostly worked on the analysis and aligning of Train and Test datasets followed by building of Logistic Regression and Random Forest model. Finally, I ran the models individually on the Kaggle platform to calculate their runtime which helped the group to come to a conclusion of identifying the Best Model for the Business Problem identified in the earlier phase. 
+### My contribution to the project
+Right from the inception of the project, I contributed across all the stages of this data science project including Data preprocessing, visualization, feature engineering, dataset balancing, model training, cross-validations, and conclusion. I also mentored my teammates on topics such as undersampling methodologies, stratification, hyperparameter tuning, and cross-validations. Enlisting a break-up of the topics I exclusively worked on and spent hours on:
 
-Business Value-
-The business problem that we tried to solve here
+1) Analyzing Target Variable Distribution
+2) Identifying and cleaning missing values across variables
+3) Identifying and encoding categorical values using Label and One Hot Encoder
+4) Finding correlations between various features and the Target
+5) Handling a huge imbalance in the dataset (target variable perspective)
+6) Aligning the train and test dataset
+7) Training and Hyperparameter Tuning for models such as Logistic Regression and Random Forest model. F
+8) Running models individually on the Kaggle platform, analyzing the accuracy scores and runtime which finally led our group to conclude on the Best Model for the Business Problem.
 
-There were many challenges faced by the group while working on the project like identifying the columns whose removal would cause the least or no impact on our analysis, alignment of Train and Test data in the same ratio as was maintained in the historical dataset, replacing Null values with suitable values in Categorical and Numerical columns, identifying other datasets that could be used for Feature Engineering, building up of various models and introducing hyperparameter tuning in them for getting a better model.
+### Business Value of our solution
+Our solution adds huge value to the business by:
 
+1) Providing an improved Loan Approval Process which does data-based customer credit assessment
+2) Streamlining the Loan Approval Process by automating customer evaluations that speed up the decision-making, resulting in faster responses to loan applications, thus enhancing customer satisfaction and loyalty.
+3) Reducing default rates: By accurately assessing the loan applicants, the bank can reduce the number of loans granted to high-risk customers, ultimately leading to a decrease in default rates. Lower default rates translate to improved loan portfolio quality and reduced financial losses for the bank.
+4) Increase in profits: Reducing default rates and identifying low-risk customers will allow the bank to offer better competitive rates to customers with good credit profiles. Attracting low-risk customers will lead to increased loan approval rates, thereby boosting the bank's revenue and profitability.
+
+###  Difficulties that our group encountered
+1) **Lack of Domain Expertise and absence of direct interaction with the business**: Understanding the domain-specific context of various independent variables in the dataset was a big challenge to us as we had no one from the business to reach out to get domain expertise. We had to mostly use Google and spend a lot of time establishing the relevance of such variables by using various analytical methods. This was also a blocker during our feature engineering steps.
+2) **Data Preprocessing**: Having a team of people who are not seasoned with Python or analytical methods was another challenge that we had to face. For every kind of data inconsistency, we had to research, go through huge function/library documents and face multiple exceptions before achieving the right code snippet.
+3) **Model Selection and Hyperparameter Tuning**: Another challenge that needs to be talked about was selecting the most appropriate machine learning algorithm and tuning its hyperparameters. Because we worked out our solution by training 3 models, we came across situations where different algorithms were performing differently on the same dataset, and finding the best combination of the hyperparameters was iterative and resource-intensive.
+4) **Overfitting and Underfitting**: Balancing our model's complexity to avoid overfitting (fitting too closely to the training data) or underfitting (lack of ability to capture patterns) was crucial and achieving an optimal balance was really difficult. Also, because the given data set was significantly imbalanced, we had to come up with an intelligent strategy to balance the training dataset to avoid overfitting for the majority target class. Digging down to this intelligent strategy was indeed one of the biggest challenges we faced.
+
+### What I learned from this project
 There were many things to learn while working on this project which broadened my thinking as a Data Analyst. Also, figuring out the challenges and overcoming them has given me the confidence to work on any similar kind of issues if they cross my path in the future. Learning the concepts and implementing them practically in a real-world scenario is completely different and I am glad that I got this opportunity to work during my Master's Program.
