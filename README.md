@@ -4,7 +4,7 @@
 
 ##### Table of Contents  
 [Business problem](#Businessproblem)  
-[Emphasis](#emphasis)  
+[What I learned from this project](#WhatIlearnedfromthisproject)  
    
 <a name="Businessproblem"/></a>
 ### Business problem
@@ -50,6 +50,7 @@ Our solution adds huge value to the business by:
 3) **Model Selection and Hyperparameter Tuning**: Another challenge that needs to be talked about was selecting the most appropriate machine learning algorithm and tuning its hyperparameters. Because we worked out our solution by training 3 models, we came across situations where different algorithms were performing differently on the same dataset, and finding the best combination of the hyperparameters was iterative and resource-intensive.
 4) **Overfitting and Underfitting**: Balancing our model's complexity to avoid overfitting (fitting too closely to the training data) or underfitting (lack of ability to capture patterns) was crucial and achieving an optimal balance was really difficult. Also, because the given data set was significantly imbalanced, we had to come up with an intelligent strategy to balance the training dataset to avoid overfitting the majority target class. Digging down to this intelligent strategy was indeed one of the biggest challenges we faced.
 
+<a name="WhatIlearnedfromthisproject"/></a>
 ### What I learned from this project
 As a Business Analyst candidate, there was indeed a lot to learn from this project. Enlisting a few of the major ones below:
 
