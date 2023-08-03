@@ -4,12 +4,12 @@
 
 ### Table of Contents  
 *[Business problem](#Businessproblem)  
-*[Objective](#Objective)
-*[Solution to the business problem](#solution)
-*[My contribution to the project](#contribution)
-*[Business Value of our solution](#BusinessValue)
-*[Objective](#Objective)
-*[What I learned from this project](#WhatIlearnedfromthisproject)  
+*[Objective](#Objective)   
+*[Solution to the business problem](#solution)   
+*[My contribution to the project](#contribution)   
+*[Business Value of our solution](#BusinessValue)   
+*[Objective](#Objective)   
+*[What I learned from this project](#WhatIlearnedfromthisproject)   
    
 <a name="Businessproblem"/></a>
 ### Business problem
