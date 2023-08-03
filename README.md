@@ -2,6 +2,9 @@
 
 ## Project 1: MSBA Summer Capstone Project "Home Credit Default Risk".
 
+[Business problem](https://github.com/Anukriti1008/Anukriti_Raj_Portfolio/edit/main/README.md)
+[Objective](https://github.com/Anukriti1008/Anukriti_Raj_Portfolio/edit/main/README.md)
+[Solution to the business problem](https://github.com/Anukriti1008/Anukriti_Raj_Portfolio/edit/main/README.md)
 ### Business problem
 Prediction of the Client’s repayment abilities is a challenging task for HomeCredit bank as the company wants not to lose any potential clients who may be capable of on-time loan repayment. The company also wants to empower its clients who may not have sufficient or existent credit history by granting them loans after predicting their repayment abilities, by verifying their alternative data like telco and transactional information, both online and offline.
 
@@ -43,7 +46,13 @@ Our solution adds huge value to the business by:
 1) **Lack of Domain Expertise and absence of direct interaction with the business**: Understanding the domain-specific context of various independent variables in the dataset was a big challenge to us as we had no one from the business to reach out to get domain expertise. We had to mostly use Google and spend a lot of time establishing the relevance of such variables by using various analytical methods. This was also a blocker during our feature engineering steps.
 2) **Data Preprocessing**: Having a team of people who are not seasoned with Python or analytical methods was another challenge that we had to face. For every kind of data inconsistency, we had to research, go through huge function/library documents and face multiple exceptions before achieving the right code snippet.
 3) **Model Selection and Hyperparameter Tuning**: Another challenge that needs to be talked about was selecting the most appropriate machine learning algorithm and tuning its hyperparameters. Because we worked out our solution by training 3 models, we came across situations where different algorithms were performing differently on the same dataset, and finding the best combination of the hyperparameters was iterative and resource-intensive.
-4) **Overfitting and Underfitting**: Balancing our model's complexity to avoid overfitting (fitting too closely to the training data) or underfitting (lack of ability to capture patterns) was crucial and achieving an optimal balance was really difficult. Also, because the given data set was significantly imbalanced, we had to come up with an intelligent strategy to balance the training dataset to avoid overfitting for the majority target class. Digging down to this intelligent strategy was indeed one of the biggest challenges we faced.
+4) **Overfitting and Underfitting**: Balancing our model's complexity to avoid overfitting (fitting too closely to the training data) or underfitting (lack of ability to capture patterns) was crucial and achieving an optimal balance was really difficult. Also, because the given data set was significantly imbalanced, we had to come up with an intelligent strategy to balance the training dataset to avoid overfitting the majority target class. Digging down to this intelligent strategy was indeed one of the biggest challenges we faced.
 
 ### What I learned from this project
-There were many things to learn while working on this project which broadened my thinking as a Data Analyst. Also, figuring out the challenges and overcoming them has given me the confidence to work on any similar kind of issues if they cross my path in the future. Learning the concepts and implementing them practically in a real-world scenario is completely different and I am glad that I got this opportunity to work during my Master's Program.
+As a Business Analyst candidate, there was indeed a lot to learn from this project. Enlisting a few of the major ones below:
+
+1) Learn to collaborate with others, share ideas, and work collectively to achieve project goals.
+2) Always have a problem-solving approach that first breaks down the business problem at the best possible granularity level. Critically analyze how your dataset attributes are going to help you out in achieving the best possible solution
+3) Domain Knowledge and Expertise is the most underrated aspect for candidates who are still learning Data Science. Getting deeper insights into the business context is very crucial for creating effective data-driven solutions.
+4) Learnt Project Management skills by working on the capstone project end to end. From setting objectives to creating a plan to managing resources and working in strict timelines the business solution is a complete SDLC deliverable in itself.
+5) Data Understanding: Understanding the data is a fundamental aspect of data science projects. Most of our time is spent in cleaning, preprocessing, and visualizing data to understand various inconsistencies.
