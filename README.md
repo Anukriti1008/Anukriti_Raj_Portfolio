@@ -105,12 +105,13 @@ To provide a solution to the aforementioned business problem of accurately predi
 2) **Feature Engineering**:This step focused on extracting meaningful features from the dataset to provide valuable inputs for the forecasting model. It included transforming variables, creating new derived features, and binning numerical data.
 3) **Model Selection and Training with Hyperparameter Tuning**: Our team selected multiple models to identify the appropriate machine learning algorithm for forecasting sales of various target variables, such as Prophet, SARIMA, and Extreme Gradient Boosting model, and trained them accordingly.
 4) **Cross-Validation and Evaluation**: We then employed cross-validation techniques to validate the performance of the aforementioned predictive models on different subsets of data. We then used evaluation metrics like Mean Absolute Error, Mean Squared Error, and R-squared error to assess the model's accuracy and reliability.
-5) **Interpretability and Explainability**: Our group then focussed on interpreting the model-based results in a more explainable way, especially in the context of forecasting new store sales for the first year. 
-On comparison of the performance of these models, the group came to the conclusion that the Extreme Gradient Boosting Model performed better in forecasting compared to other models in terms of MEand Absolute and Squared error. This model gave the best result in forecasting the first-year sales of any New Maverik store.
+5) **Interpretability and Explainability**: Our group then focussed on interpreting the model-based results in a more explainable way, especially in the context of forecasting new store sales for the first year.
+   
+On comparison of the performance of these models, the group came to the conclusion that the Extreme Gradient Boosting Model performed better in forecasting compared to other models in terms of Mean Absolute and Squared error. This model gave the best result in forecasting the first-year sales of any New Maverik store.
 
 <a name="contribution2"/></a>
 ### My contribution to the project
-Right from the inception of the project, I contributed across all the stages of this data science project including Data preprocessing, visualization, feature engineering, model training, cross-validations, and conclusion. I also mentored my teammates on topics such as explaining the graphs created using various parameters during Exploratory Data Analysis Phase, hyperparameter tuning, and cross-validations. Enlisting a break-up of the topics I exclusively worked on and spent hours on:
+Right from the inception of the project, I contributed across all the stages of this data science project, including Data preprocessing, visualization, feature engineering, model training, cross-validations, and conclusion. I also mentored my teammates on topics such as explaining the graphs created using various parameters during the Exploratory Data Analysis Phase, hyperparameter tuning, and cross-validations. Enlisting a break-up of the topics I exclusively worked on and spent hours on:
 
 1) **Analyzing Datasets provided to identify zero-variance variables**
 2) **Identifying and cleaning missing values across variables**
