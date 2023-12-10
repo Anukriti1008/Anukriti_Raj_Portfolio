@@ -95,7 +95,7 @@ Maverik faces the challenge of accurately forecasting the first-year sales of 30
 
 <a name="objective2"/></a>
 ### Objective
-Create a data-driven, time-series predictive model to assess the initial-year sales of diesel, unleaded, food, and in-store items in new Maverik stores. Incorporate network-wide seasonality patterns and diverse sales metrics for accurate forecasting.
+Create a data-driven, time-series predictive model to assess the initial-year sales of various dependent variables in new Maverik stores. Incorporate network-wide seasonality patterns and diverse sales metrics for accurate forecasting.
 
 <a name="solution2"/></a>
 ### Solution to the business problem
