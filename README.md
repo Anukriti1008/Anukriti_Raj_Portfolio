@@ -6,6 +6,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 ### Table of Contents  
 *[Project 1: MSBA Summer Capstone Project "Home Credit Default Risk"](#Project1)
+
    *[Business problem](#Businessproblem)  
    *[Objective](#objective)   
    *[Solution to the business problem](#solution)   
