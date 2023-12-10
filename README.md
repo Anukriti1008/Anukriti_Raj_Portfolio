@@ -2,8 +2,6 @@
 
 Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
-## Project 1: MSBA Summer Capstone Project "Home Credit Default Risk".
-
 ### Table of Contents  
 *[Project 1: MSBA Summer Capstone Project "Home Credit Default Risk"](#Project1)
 
