@@ -147,5 +147,5 @@ As a Business Analyst candidate, there was indeed a lot to learn from this proje
 3) **Domain Knowledge and Expertise is the most underrated aspect** for candidates who are still learning Data Science. Getting deeper insights into the business context is very crucial for creating effective data-driven solutions.
 4) **Learnt Project Management skills** by working on the capstone project end to end. From setting objectives to creating a plan to managing resources and working in strict timelines the business solution is a complete SDLC deliverable in itself.
 5) **Data Understanding**: Understanding the data is a fundamental aspect of data science projects. Most of our time is spent cleaning, preprocessing, and visualizing data to understand various inconsistencies.
-6) **Learning new kind of predictive model(Time-series forecasting)**: The data analysis and model creation for the forecast model was completely new, challenging but interesting and it help me understand the model that we can use for future predictions.
+6) **Learning new kind of predictive model(Time-series forecasting)**: The data analysis and model creation for the forecast model was completely new, challenging but interesting and it helped me understand the model that we can use for future predictions.
 
